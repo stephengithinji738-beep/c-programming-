@@ -1,4 +1,8 @@
-
+/*
+name: Stephen githinji
+reg no: Ct101/G/26434/25
+description:find the volume and surface area of a cylinder
+*/
 #include <stdio.h>
 #define PI 3.14159
 
@@ -18,4 +22,5 @@ int main() {
     printf("surface Area of the cylinder = %.2f\n", surfaceArea);
 
     return 0;
+
 }
