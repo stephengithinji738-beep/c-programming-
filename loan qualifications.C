@@ -1,3 +1,8 @@
+/*
+Name:Stephen githinji
+Reg no:CT101/G/26434/25
+Description: validation of loan application
+*/
 
 #include <stdio.h>
 
@@ -18,4 +23,5 @@ int main() {
     }
 
     return 0;
+
 }
