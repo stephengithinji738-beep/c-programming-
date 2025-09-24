@@ -1,7 +1,7 @@
 /*
 Name: stephen githinji
 Reg no:CT101/G/26434/25
-Description:Enter your height
+Description:bank balance
 */
 #include <stdio.h>
 
@@ -13,4 +13,5 @@ int main() {
     printf("your bank balance is: %.2f Ksh\n", Bankbalance);
 
     return 0;
+
 }
