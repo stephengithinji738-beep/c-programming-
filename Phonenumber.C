@@ -1,7 +1,7 @@
 /*
 Name: stephen githinji
 Reg no:CT101/G/26434/25
-Description:Enter your height
+Description:Enter your phone number
 */
 #include <stdio.h>
 
@@ -13,4 +13,5 @@ int main() {
     printf("your phone number is: %s\n", phone);
 
     return 0;
+
 }
